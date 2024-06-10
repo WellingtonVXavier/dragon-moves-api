@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|c:\\users\\lucas.balbino\\source\\repos\\megalopolis\\megalopolis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|solutionrelative:megalopolis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|c:\\users\\lucas.balbino\\source\\repos\\megalopolis\\megalopolis\\help\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|solutionrelative:megalopolis\\help\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|c:\\users\\lucas.balbino\\source\\repos\\megalopolis\\megalopolis\\extensions\\dependencyregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|solutionrelative:megalopolis\\extensions\\dependencyregistrationextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|c:\\users\\lucas.balbino\\source\\repos\\megalopolis\\megalopolis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AEA7E710-6C9F-4937-8453-231E72010CAC}|Megalopolis\\Megalopolis.csproj|solutionrelative:megalopolis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1924764005:0:{13143d73-808b-4a2f-bebb-ccbe9c93fe37}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\appsettings.json",
+              "RelativeDocumentMoniker": "Megalopolis\\appsettings.json",
+              "ToolTip": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\appsettings.json",
+              "RelativeToolTip": "Megalopolis\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-10T12:50:24.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\Program.cs",
+              "RelativeDocumentMoniker": "Megalopolis\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\Program.cs",
+              "RelativeToolTip": "Megalopolis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:27:05.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\Help\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "Megalopolis\\Help\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\Help\\AutoMapperProfile.cs",
+              "RelativeToolTip": "Megalopolis\\Help\\AutoMapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:24:21.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyRegistrationExtension.cs",
+              "DocumentMoniker": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\Extensions\\DependencyRegistrationExtension.cs",
+              "RelativeDocumentMoniker": "Megalopolis\\Extensions\\DependencyRegistrationExtension.cs",
+              "ToolTip": "C:\\Users\\lucas.balbino\\source\\repos\\Megalopolis\\Megalopolis\\Extensions\\DependencyRegistrationExtension.cs",
+              "RelativeToolTip": "Megalopolis\\Extensions\\DependencyRegistrationExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:17:02.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
