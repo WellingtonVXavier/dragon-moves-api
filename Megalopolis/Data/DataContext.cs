@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Megalopolis.Model;
+using Microsoft.EntityFrameworkCore;
 
 namespace Megalopolis.Data;
 
@@ -8,4 +9,6 @@ public class DataContext : DbContext
     {
         
     }
+
+    public DbSet<Filmes> Filmes { get; set; }
 }
