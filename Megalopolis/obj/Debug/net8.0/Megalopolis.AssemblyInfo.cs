@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Megalopolis")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ead0f70696b4b941dfb91f960acab1447447d382")]
 [assembly: System.Reflection.AssemblyProductAttribute("Megalopolis")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Megalopolis")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
