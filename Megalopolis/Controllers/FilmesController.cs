@@ -23,10 +23,33 @@ namespace Megalopolis.Controllers
         }
 
         [HttpGet]
-        [Route("GetFilmes")]
-        public async Task<IActionResult> GetFilmes()
+        [Route("GetFilmesum")]
+        public async Task<IActionResult> GetFilmesum()
         {
-            var res = await _filmesService.GetFilmes();
+            var res = await _filmesService.GetFilmesum();
+            return StatusCode((int)res.StatusCode, res);
+        }
+
+        [HttpGet]
+        [Route("GetFilmes")]
+        public async Task<IActionResult> GetFilmes(int pageNumber = 1, int pageSize = 10)
+        {
+            var res = await _filmesService.GetFilmes(pageNumber, pageSize);
+            return StatusCode((int)res.StatusCode, res);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<IActionResult> GetFilmesById(Guid id)
+        {
+            var res = await _filmesService.GetFilmesById(id);
+            return StatusCode((int)res.StatusCode, res);
+        }
+
+        [HttpPut]
+        public async Task<IActionResult> UpdateFilme(FilmesDto filmesDto)
+        {
+            var res = await _filmesService.UpdateFilme(filmesDto);
+
             return StatusCode((int)res.StatusCode, res);
         }
     }
